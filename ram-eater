@@ -1,0 +1,5 @@
+@echo off
+-r packetssend false
+-c folder (file_name_here)
+-dir downloads -n
+loop -p 0.1
